@@ -3,7 +3,7 @@
 export const botName = '@bot'
 
 // 群聊白名单，白名单内的群聊才会自动回复
-export const roomWhiteList = ['恋爱圣经']
+export const roomWhiteList = ['恋爱圣经','水猿兵团']
 
 // 联系人白名单，白名单内的联系人才会自动回复
 export const aliasWhiteList = ['彭迁']
